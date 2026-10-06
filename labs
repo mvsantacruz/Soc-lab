@@ -1,0 +1,21 @@
+soc-lab/
+├── README.md                          ← the front door (template below)
+├── incident-writeups/
+│   ├── 01-log4shell-detection.md
+│   ├── 02-ransomware-lateral-movement.md
+│   └── 03-phishing-email-analysis.md
+├── detections/
+│   ├── splunk-rules/
+│   │   ├── brute-force-login.spl
+│   │   └── mimikatz-process-creation.spl
+│   └── sigma/
+│       └── suspicious-powershell.yml
+├── scripts/
+│   ├── ioc-enrichment.py             ← VirusTotal/AbuseIPDB lookup
+│   └── log-parser.py                 ← parse JSON/CSV logs
+├── lab-setup/
+│   ├── splunk-home-lab.md            ← how you set up Splunk Free
+│   └── sysmon-config.md
+└── screenshots/
+    ├── splunk-dashboard.png
+    └── detection-alert.png
