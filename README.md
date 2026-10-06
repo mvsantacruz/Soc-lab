@@ -51,4 +51,4 @@ This repo grows weekly. Latest additions:
 - [date] — Added [Y]
 
 ---
-*Built and maintained by [Your Name]. Feedback welcome via LinkedIn.*
+*Built and maintained by Maria Santacruz. Feedback welcome via LinkedIn.*
