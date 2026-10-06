@@ -1,4 +1,4 @@
-# [Your Name] — SOC Analyst Portfolio
+# Maria V. Santacruz — SOC Analyst Portfolio
 
 > Aspiring SOC Analyst transitioning from 10+ years as a beauty-industry entrepreneur. 
 > Building hands-on detection, incident response, and automation skills. 
