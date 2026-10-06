@@ -6,7 +6,7 @@
 
 ## 🔗 Links
 - **Portfolio:** [your portfolio URL]
-- **LinkedIn:** linkedin.com/in/mvsantacruz
+- **LinkedIn:** (https://www.linkedin.com/in/mvsantacruz/)
 - **TryHackMe:** [your THM profile URL]
 - **LetsDefend:** [your LetsDefend profile URL, if you have one]
 
